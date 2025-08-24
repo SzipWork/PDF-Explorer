@@ -110,7 +110,7 @@ chatbot = gr.ChatInterface(
 
 with gr.Blocks() as demo:
     with gr.Sidebar():
-        gr.Markdown("## 📄 PDF QA Chatbot")  
+        gr.Markdown("## PDF QA Chatbot")  
         gr.Markdown("Ask questions based on your PDFs.")  
     chatbot.render()
 
