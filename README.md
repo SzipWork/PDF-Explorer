@@ -71,7 +71,7 @@ To launch the chatbot locally, run:
 
 ## Environment Variables
 The following variable must be defined in the .env file:
-   ```GOOGLE_API_KEY=your_google_api_key_here```
+   ```GEMINI_API_KEY=your_google_api_key_here```
 
 ## Example
 
