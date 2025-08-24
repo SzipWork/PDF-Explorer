@@ -49,8 +49,8 @@ A Python-based Retrieval-Augmented Generation (RAG) chatbot that answers questio
    ```pip install -r requirements.txt```
 
 4. **Configure the environment variables**
-Create a .env file in the root directory and add your Google API key:
-   ```GOOGLE_API_KEY=your_google_api_key_here```
+Create a .env file in the root directory and add your Gemini API key:
+   ```GEMINI_API_KEY=your_gemini_api_key_here```
 
 
 ## Running the Application
@@ -71,7 +71,7 @@ To launch the chatbot locally, run:
 
 ## Environment Variables
 The following variable must be defined in the .env file:
-   ```GEMINI_API_KEY=your_google_api_key_here```
+   ```GEMINI_API_KEY=your_gemini_api_key_here```
 
 ## Example
 
